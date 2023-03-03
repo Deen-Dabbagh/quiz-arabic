@@ -1,0 +1,58 @@
+{
+    "quizTitle": "اختبار الرياضيات",
+    "quizSynopsis": "اختبر معرفتك بالرياضيات",
+    "questions": [
+      {
+        "question": "ما هي نتيجة جمع الأعداد 2 و 3؟",
+        "answers": [
+          {
+            "answer": "5",
+            "isCorrect": true
+          },
+          {
+            "answer": "4",
+            "isCorrect": false
+          },
+          {
+            "answer": "6",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "ما هو الرقم الذي يسبق العدد 3؟",
+        "answers": [
+          {
+            "answer": "2",
+            "isCorrect": true
+          },
+          {
+            "answer": "4",
+            "isCorrect": false
+          },
+          {
+            "answer": "1",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "question": "ما هي نتيجة ضرب الأعداد 4 و 3؟",
+        "answers": [
+          {
+            "answer": "12",
+            "isCorrect": true
+          },
+          {
+            "answer": "7",
+            "isCorrect": false
+          },
+          {
+            "answer": "10",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+  
