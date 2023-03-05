@@ -86,7 +86,7 @@ export const quiz = {
 
 export default function App() {
   return (
-    <div className="quiz-container">
+    <div className="quiz-container-ar">
       <Quiz quiz={quiz} shuffle={true} showInstantFeedback={true} />
     </div>
   );

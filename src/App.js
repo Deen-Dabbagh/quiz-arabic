@@ -13,17 +13,21 @@ function App() {
   };
 
   return (
-    <div dir={dir} className="app-container">
+    <div>
+    <div>
       <button onClick={() => handleButtonClick("buttonOne")}>
         Arabic Quiz
       </button>
       <button onClick={() => handleButtonClick("buttonTwo")}>
         English Quiz
       </button>
+    </div>
+    <div dir={dir} className="app-container">
+      
 
       {activeButton === "buttonOne" && <ButtonOne />}
       {activeButton === "buttonTwo" && <ButtonTwo />}
-    </div>
+    </div></div>
   );
 }
 
